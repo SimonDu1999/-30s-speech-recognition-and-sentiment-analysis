@@ -1,6 +1,6 @@
 ## 30s Speech Recognition and Sentiment Analysis using AssemlyAI
 
-In this folder, you can find the code for making a Streamlit app that can do sentiment analysis and make visualizations on earnings calls.
+In this folder, you can find the code for making a Streamlit app that can do sentiment analysis and make visualizations from your speech within 30 seconds
 
 * Clone this folder
 * Install Streamlit and other requirements
