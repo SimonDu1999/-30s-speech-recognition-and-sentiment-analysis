@@ -1,3 +1,10 @@
+#########################
+
+# This code is modified based on the AssemblyAI tutorial: Sentiment Analysis in Action - Earnings Calls
+# Source code github: https://github.com/AssemblyAI/youtube-tutorials/tree/main/Sentiment%20Analysis
+
+#########################
+
 import streamlit as st
 from save_audio import save_audio
 from configure import auth_key
